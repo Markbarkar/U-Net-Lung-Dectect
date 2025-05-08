@@ -1,0 +1,12 @@
+data/
+
+process/
+
+.venv/
+
+.idea/
+
+__pycache__/
+
+
+
