@@ -17,7 +17,7 @@ def time_synchronized():
 def main():
     classes = 1  # exclude background
     weights_path = "./save_weights/best_model.pth"
-    img_path = "./LUNA16/test/images/1.3.6.1.4.1.14519.5.2.1.6279.6001.100225287222365663678666836860.png"
+    img_path = "./LUNA16/test/images/1.3.6.1.4.1.14519.5.2.1.6279.6001.107351566259572521472765997306.png"
     assert os.path.exists(weights_path), f"weights {weights_path} not found."
     assert os.path.exists(img_path), f"image {img_path} not found."
 
