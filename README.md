@@ -103,11 +103,11 @@ python plot_training.py
 如果您使用了本项目，请引用：
 ```
 @misc{luna16-segmentation,
-  author = {Your Name},
+  author = {Lin Zaizai},
   title = {LUNA16 Lung CT Segmentation},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/luna16-segmentation}
+  url = {https://github.com/Markbarkar/U-Net-Lung-Dectect.git}
 }
 ```
 
